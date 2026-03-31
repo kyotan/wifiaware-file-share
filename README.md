@@ -4,9 +4,7 @@ Android app for local file transfer using Wi-Fi Aware.
 
 ## Requirements
 
-- Android Studio
-- Android SDK for the project compile / target level
-- A Wi-Fi Aware capable Android device
+- A Wi-Fi Aware capable Android device(Android 15 later)
 
 ## Build
 
